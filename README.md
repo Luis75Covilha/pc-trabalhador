@@ -47,7 +47,6 @@ Outras ferramentas podem ser usadas conforme o caso, incluindo:
 - [Guia técnico de implementação](docs/guia-tecnico.md)
 - [Casos práticos](docs/casos-praticos.md)
 - [Configuração e manutenção](docs/configuracao-e-manutencao.md)
-- [Correcções editoriais aplicadas](docs/correccoes-editoriais.md)
 
 ## Licença
 
